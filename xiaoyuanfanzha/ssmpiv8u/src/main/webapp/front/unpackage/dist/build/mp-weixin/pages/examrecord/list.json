@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#1F82CD",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "竞赛记录",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
